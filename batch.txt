@@ -1,0 +1,16 @@
+help
+vmm help
+vmm create
+vmm create
+vmm create
+vmm read 0 0
+vmm read 0 4096
+vmm write 0 8192 65
+vmm read 0 8192
+vmm translate 0 8192
+vmm translate 1 0
+meminfo
+vmm stats
+vmm terminate 0
+vmm stats
+quit
