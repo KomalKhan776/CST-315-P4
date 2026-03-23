@@ -14,10 +14,7 @@ Custom shell lopeshell built in C++ that runs Linux commands in both interactive
 1. Write code **[lopeShell.cpp](lopeShell.cpp)**
 2. Compile the program:
    ```
-   Or using the Makefile:
-   ```
-   make
-   ```
+   using the Makefile:
 3. Run in **interactive mode**:
    ```
    ./lopeShell
